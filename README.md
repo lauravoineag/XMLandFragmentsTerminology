@@ -10,8 +10,14 @@ Each visible fragment in an Android app has a layout that defines the user inter
 <img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/3e46e32e-afdc-4813-800d-ba75e9a0f34c">
 <img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/d79bde9c-c4f5-4ab1-bd68-9996ba469bb7">
 
+## Fragment Views and Constraints
 
-Colours:
+<img width="632" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/6df81bc3-f02c-4361-a9a1-7c2dd7078ec7">
+
+<img width="606" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/95356d26-66a8-4572-9568-f23d3a05b488">
+
+
+## Fragment Colours:
 <img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/2c2c8ddf-4eb8-4e54-a1b1-7a75260bc98c">
 
 **com.example.myfirstapp** (or the domain name you have specified): This folder contains the Kotlin source code files for your app.
