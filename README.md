@@ -19,3 +19,6 @@
 
 navigation: This folder contains the navigation graph, which tells Android Studio how to navigate between different parts of your application.
 **values**: Contains resources, such as strings and colors, used in your app.
+
+
+When you run the app you see a floating action button with an email icon. If you tap that button, you'll see it has been set up to briefly show a message at the bottom of the screen. This message space is called a snackbar, and it's one of several ways to notify users of your app with brief information.
