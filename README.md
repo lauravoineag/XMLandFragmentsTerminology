@@ -24,3 +24,7 @@ navigation: This folder contains the navigation graph, which tells Android Studi
 
 When you run the app you see a floating action button with an email icon. If you tap that button, you'll see it has been set up to briefly show a message at the bottom of the screen. 
 This message space is called a snackbar, and it's one of several ways to notify users of your app with brief information.
+
+
+<img width="631" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/a6d71284-59ff-4d9c-8f96-66fe584ba56a">
+
