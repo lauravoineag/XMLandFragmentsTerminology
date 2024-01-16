@@ -3,6 +3,17 @@
 [Source](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0![image](https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/185065b8-2840-4703-bdd2-4390dd4877bd)
 )
 
+
+## Fragment
+Each visible fragment in an Android app has a layout that defines the user interface for the fragment. Android Studio has a layout editor where you can create and define layouts.
+
+<img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/3e46e32e-afdc-4813-800d-ba75e9a0f34c">
+<img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/d79bde9c-c4f5-4ab1-bd68-9996ba469bb7">
+
+
+Colours:
+<img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/2c2c8ddf-4eb8-4e54-a1b1-7a75260bc98c">
+
 **com.example.myfirstapp** (or the domain name you have specified): This folder contains the Kotlin source code files for your app.
 
 **com.example.myfirstapp (androidTest)**: This folder is where you would put your instrumented tests, which are tests that run on an Android device. It starts out with a skeleton test file.
