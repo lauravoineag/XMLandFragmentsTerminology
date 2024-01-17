@@ -10,6 +10,8 @@ The UI of an Android app is compiled as a hierarchy containing components (widge
 <img width="640" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/fbec8915-ac04-41f1-8fe2-cc220c4021c8">
 <img width="814" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/c90a83bb-af75-4417-9d75-775ec7cba1d9">
 
+### Add a comment
+<!-- this is a comment in XML -->
 
 ## Fragment
 Each visible fragment in an Android app has a layout that defines the user interface for the fragment. Android Studio has a layout editor where you can create and define layouts.
