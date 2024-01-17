@@ -10,6 +10,22 @@ The UI of an Android app is compiled as a hierarchy containing components (widge
 <img width="640" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/fbec8915-ac04-41f1-8fe2-cc220c4021c8">
 <img width="814" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/c90a83bb-af75-4417-9d75-775ec7cba1d9">
 
+## Naming constraints
+<img width="677" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/3f26df55-eb26-43b2-a562-14654e921be2">
+
+##  Attributes
+<img width="677" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/96f3a5b2-daf4-4c0f-a661-ba2462436b0e">
+
+
+## An ID
+A resource ID is a unique resource name for the element. When you add a View or any other resource with the layout editor, Android Studio automatically assigns them a resource ID. When you manually write the XML, you must explicitly declare the resource ID.
+
+## Errors
+Hover over it and you will see the error "view is not constrained" (view is not restricted), which should be familiar to you from previous codelabs. Remember that the children of a ConstraintLayout need constraints so that the layout knows how to organize them.
+
+## Edit text
+- e.g the user can enter the cost of the service in the app. You will use an element EditText, which will allow the user to enter or modify text in an app.
+
 ### Add a comment
 <!-- this is a comment in XML -->
 
