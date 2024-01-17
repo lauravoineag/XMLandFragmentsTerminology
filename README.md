@@ -2,6 +2,13 @@
 
 [Source](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0![image](https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/185065b8-2840-4703-bdd2-4390dd4877bd)
 )
+[Source 2](https://developer.android.com/codelabs/basic-android-kotlin-training-xml-layouts?hl=es-419#2)
+
+## XML 
+XML stands for eXtensible Markup Language, which is a way of describing data using a text-based document. 
+The UI of an Android app is compiled as a hierarchy containing components (widgets) and the on-screen layouts of those components. Keep in mind that these layouts are UI components themselves.
+<img width="640" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/fbec8915-ac04-41f1-8fe2-cc220c4021c8">
+<img width="814" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/c90a83bb-af75-4417-9d75-775ec7cba1d9">
 
 
 ## Fragment
