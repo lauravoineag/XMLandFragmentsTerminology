@@ -5,10 +5,33 @@
 [Source 2](https://developer.android.com/codelabs/basic-android-kotlin-training-xml-layouts?hl=es-419#2)
 
 ## XML 
+
 XML stands for eXtensible Markup Language, which is a way of describing data using a text-based document. 
+XML is a way of organizing text, made up of tags, elements and attributes.
+Use XML to define the layout of an Android app.
 The UI of an Android app is compiled as a hierarchy containing components (widgets) and the on-screen layouts of those components. Keep in mind that these layouts are UI components themselves.
 <img width="640" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/fbec8915-ac04-41f1-8fe2-cc220c4021c8">
 <img width="814" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/c90a83bb-af75-4417-9d75-775ec7cba1d9">
+
+## Edit text
+EditText to allow the user to enter or edit text.
+You EditText can have a hint that tells the user what to expect to enter in that field.
+Specifies the attribute android:inputTypeto limit the type of text that the user can enter in a field EditText.
+
+
+## RadioGroup
+Make a list of unique options with RadioButtons, grouped with a RadioGroup.
+A RadioGroup can be vertical or horizontal, and you can specify which RadioButtonshould appear selected initially.
+
+## Switch
+Use a Switch to allow the user to enable or disable two options.
+You can add a tag to a tag Switchwithout using a TextViewstandalone tag.
+Each child element of a ConstraintLayoutmust have vertical and horizontal constraints.
+Use the "start" and "end" constraints to control which languages ​​read left-to-right (LTR) and right-to-left (RTL).
+
+## Constraint attribute
+Constraint attribute names follow the format layout_constraint<Source>_to<Target>Of.
+To make one Viewas wide as the one ConstraintLayoutit is on, constrain the start and end to those of the top element and set the width to 0 dp.
 
 ## Naming constraints
 <img width="677" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/3f26df55-eb26-43b2-a562-14654e921be2">
@@ -23,8 +46,6 @@ A resource ID is a unique resource name for the element. When you add a View or 
 ## Errors
 Hover over it and you will see the error "view is not constrained" (view is not restricted), which should be familiar to you from previous codelabs. Remember that the children of a ConstraintLayout need constraints so that the layout knows how to organize them.
 
-## Edit text
-- e.g the user can enter the cost of the service in the app. You will use an element EditText, which will allow the user to enter or modify text in an app.
 
 ### Add a comment
 <!-- this is a comment in XML -->
