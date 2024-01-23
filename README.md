@@ -23,6 +23,7 @@ Specifies the attribute android:inputTypeto limit the type of text that the user
 ## Bias
 is the percentage of the constraint
 is used in order to move items that are constrained along with their constraints
+it's better to use a vertical bias than margins to adjust the vertical/horizontal positions
 <img width="616" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/6cc25ee0-2886-4f60-aef6-c758291aa1ff">
 
 ## Toast
