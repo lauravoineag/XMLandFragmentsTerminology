@@ -20,6 +20,9 @@ EditText to allow the user to enter or edit text.
 You EditText can have a hint that tells the user what to expect to enter in that field.
 Specifies the attribute android:inputTypeto limit the type of text that the user can enter in a field EditText.
 
+## Bias
+<img width="616" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/6cc25ee0-2886-4f60-aef6-c758291aa1ff">
+
 
 ## RadioGroup
 Make a list of unique options with RadioButtons, grouped with a RadioGroup.
