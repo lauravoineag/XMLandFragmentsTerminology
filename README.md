@@ -21,6 +21,7 @@ You EditText can have a hint that tells the user what to expect to enter in that
 Specifies the attribute android:inputTypeto limit the type of text that the user can enter in a field EditText.
 
 ## Bias
+is used in order to move items that are constrained along with their constraints
 <img width="616" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/6cc25ee0-2886-4f60-aef6-c758291aa1ff">
 
 ## Toast
