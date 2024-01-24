@@ -93,7 +93,12 @@ Each visible fragment in an Android app has a layout that defines the user inter
 **mipmap**: This folder contains the launcher icons for your app.
 
 navigation: This folder contains the navigation graph, which tells Android Studio how to navigate between different parts of your application.
-**values**: Contains resources, such as strings and colors, used in your app.
+**values**: Contains resources, such as strings and colors, used in your app.  
+
+## Safe Args - navigation 
+The Navigation component has a Gradle plugin called Safe Args that generates simple object and builder classes for type-safe navigation and access to any associated arguments. Safe Args is strongly recommended for navigating and passing data, because it ensures type safety.
+[Source1](https://developer.android.com/guide/navigation/use-graph/pass-data#Safe-args)
+[Source2](https://developer.android.com/jetpack/androidx/releases/navigation#kts)
 
 ![image](https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/8d313112-17ed-4580-9b25-1a43b05d702e)
 
