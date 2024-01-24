@@ -64,6 +64,8 @@ Hover over it and you will see the error "view is not constrained" (view is not 
 
 ## Fragment
 Each visible fragment in an Android app has a layout that defines the user interface for the fragment. Android Studio has a layout editor where you can create and define layouts.
+<img width="1151" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/91073d06-a9b9-4139-80c6-d850279fc84b">
+
 
 <img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/3e46e32e-afdc-4813-800d-ba75e9a0f34c">
 <img width="665" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/d79bde9c-c4f5-4ab1-bd68-9996ba469bb7">
