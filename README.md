@@ -77,6 +77,8 @@ Each visible fragment in an Android app has a layout that defines the user inter
 <img width="632" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/6df81bc3-f02c-4361-a9a1-7c2dd7078ec7">
 
 <img width="606" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/95356d26-66a8-4572-9568-f23d3a05b488">
+<img width="1151" alt="image" src="https://github.com/lauravoineag/XMLandFragmentsTerminology/assets/77536595/b9e9dfee-91c7-48f7-bdc8-99f2389c825e">
+
 
 
 ## Fragment Colours:
